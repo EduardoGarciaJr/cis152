@@ -68,7 +68,7 @@ main {
 }
 section {
     float: left; /* fl */
-    padding: 2em; /* p12em */
+    padding-left: 2em; /* p12em */
     padding-right: 2em; /* pr2em */
     width: 33%;
 }
