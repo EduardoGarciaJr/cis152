@@ -142,7 +142,8 @@ footer {
 
 #homehero,
 #yurthero,
-#trailhero {
+#trailhero,
+#reservations-hero {
   background-repeat: no-repeat;
   background-size: cover;
   height: 18.75rem;
@@ -158,6 +159,10 @@ footer {
 
 #trailhero {
   background-image: url(images/trail.jpg);
+}
+
+#reservations-hero {
+  background-image: url(images/reservations.jpg);
 }
 
 .card-row {
